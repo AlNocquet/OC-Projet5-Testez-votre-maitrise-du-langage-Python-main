@@ -8,6 +8,4 @@ Rédigez votre code dans le fichier main.py de chaque exercice.
 
 Exécutez le code afin de vérifier qu'il fonctionne bien.
 
-Discutez de vos exercices avec votre mentor. Il a le corrigé de tous les exercices.
-
-Bon entraînement !
+Vous devez charger une capture d’écran de chaque exercice terminé sur Github.
