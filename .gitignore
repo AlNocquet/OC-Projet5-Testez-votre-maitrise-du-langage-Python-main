@@ -1,13 +1,5 @@
-# 1. Environnement virtuel : dossier où pip installe les paquets
+# .gitignore
 .venv/
-
-# 2. Cache Python et fichiers compilés : dossiers et extensions auto-générés
 __pycache__/
-*.py[cod]
-
-# 3. Configuration de l’éditeur VS Code
-.vscode/
-
-# 4. Métadonnées Windows inutiles
-Thumbs.db
-Desktop.ini
+*.pyc
+.env
